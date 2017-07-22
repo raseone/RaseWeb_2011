@@ -1,0 +1,21 @@
+.g_table {
+	background-color: #;
+	height: 100%;
+	width: 100%;
+}
+
+.g_tabledata {
+	float: left;
+}
+
+.g_thumbimage {
+	background: rgba(155, 155, 155, 0.25);
+	margin: 4px;
+	padding: 4px;
+	border: thin solid #000;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-moz-box-shadow: 3px 3px 10px #000;
+	-webkit-box-shadow: 3px 3px 10px #000;
+}
+
